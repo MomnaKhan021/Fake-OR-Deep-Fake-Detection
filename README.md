@@ -1,4 +1,5 @@
 Universal Fake Image Detection
+
 Towards Universal Fake Image Detectors that Generalize Across Generative Models
 Paper: Ojha, U., Li, Y., & Lee, Y. J. - CVPR 2023 Paper PDF: https://openaccess.thecvf.com/content/CVPR2023/papers/Ojha_Towards_Universal_Fake_Image_Detectors_That_Generalize_Across_Generative_Models_CVPR_2023_paper.pdf arXiv: https://arxiv.org/abs/2302.10174 Project Page: https://utkarshojha.github.io/universal-fake-detection/ Official GitHub: https://github.com/WisconsinAIVision/UniversalFakeDetect
 
